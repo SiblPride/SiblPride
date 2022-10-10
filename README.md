@@ -7,5 +7,6 @@ My name is Joseph and I'm a computer science student at UNT. Below is some infor
 👍 Interests:
 - Web development.
 - game development 
+
 💬 Reach me by email or LinkedIn! josephcardoza03@gmail.com | www.linkedin.com/in/CardozaJoseph
 
