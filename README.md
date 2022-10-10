@@ -3,6 +3,7 @@ My name is Joseph and I'm a computer science student at UNT. Below is some infor
 
 💼 Work experience: <br>
 - **Whole Sale Real Estate at Dream Team Properties** - Negotiated, Communicated, and developed relationships with buyers and sellers [Dallas, April 2021 - January 2022]
+
 👍 Interests:
 - Web development.
 - game development 
